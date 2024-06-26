@@ -1,0 +1,11 @@
+{
+  "Adrenaline": {
+    "type": "status",
+    "mana_cost": 20,
+    "data": {
+      "target": "self",
+      "duration": 3,
+      "effect": "Adrenaline"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Knight": {
+    "health_mul": 1.5,
+    "mana_mul": 0.5,
+    "strength_mul": 2.5,
+    "defense_mul": 1.0,
+    "available_skills": [],
+    "starting_skills": [
+      "Sword Swing",
+      "Adrenaline"
+    ]
+  },
+  "Mage": {
+    "health_mul": 1,
+    "mana_mul": 3.0,
+    "strength_mul": 0.5,
+    "defense_mul": 0.75,
+    "available_skills": [],
+    "starting_skills": [
+      "Zap",
+      "Obliterate"
+    ]
+  },
+  "Paladin": {
+    "health_mul": 2.0,
+    "mana_mul": 1.0,
+    "strength_mul": 1.0,
+    "defense_mul": 2.0,
+    "available_skills": [],
+    "starting_skills": [
+      "Mace Strike",
+      "HealingWard"
+    ]
+  }
+}

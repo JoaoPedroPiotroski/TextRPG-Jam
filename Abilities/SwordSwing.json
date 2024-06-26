@@ -1,0 +1,9 @@
+{
+  "Sword Swing": {
+    "type": "attack",
+    "mana_cost": 0,
+    "data": {
+      "damage": 5
+    }
+  }
+}
